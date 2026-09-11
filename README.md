@@ -1,1 +1,1 @@
-# R and RStudio btw ádasda
+# R and RStudio
